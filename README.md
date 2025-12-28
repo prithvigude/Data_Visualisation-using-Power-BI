@@ -31,4 +31,19 @@ The challenge was to:
 ---
 
 ## Tools and Techniques
-- Power
+- Power BI Desktop
+- DAX for KPI calculations
+- Data modeling best practices
+- Visual design focused on interpretability
+
+---
+
+## Key Highlights
+- Clean separation of data model and visuals
+- Reusable and well-defined measures
+- Dashboard layouts optimized for stakeholder consumption
+
+---
+
+## Notes
+This repository focuses on reporting logic and design patterns rather than specific datasets.

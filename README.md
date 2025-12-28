@@ -1,7 +1,34 @@
-# Data-Visualisation-using-Power-BI
+# Data Visualization using Power BI
 
-The objective of this exercise is to develop skills on how to visualize the data set using PowerBI tool.
+## Overview
+This repository demonstrates how business problems are translated into clear, reliable Power BI dashboards.
 
-Formatted the data of the csv file using python and made it appropriate for PowerBI
-Used PowerBI to create visualizations and to understand critical data points
-Recorded a final video of PowerBI animations using Camtasia video recorder.
+The focus is not just on visuals, but on:
+- Defining meaningful KPIs
+- Designing clean semantic models
+- Ensuring metrics are consistent and explainable to stakeholders
+
+All examples are based on sample or sanitized data.
+
+---
+
+## Business Problem
+Stakeholders needed visibility into performance trends and key drivers to support operational and strategic decisions.
+
+The challenge was to:
+- Identify the right KPIs
+- Avoid metric duplication or conflicting definitions
+- Present insights in a way that is easy to consume for non-technical users
+
+---
+
+## Approach
+1. Understood the business context and decision points
+2. Defined KPIs with clear business and technical definitions
+3. Modeled data to support reusable measures
+4. Built Power BI reports focused on clarity and usability
+
+---
+
+## Tools and Techniques
+- Power
